@@ -80,13 +80,12 @@
 
 <br/>  
 
-
-## Recent Blog Posts  
+  
 
 
 <br/>  
 
-  
+  [![@cool_hecker's Holopin board](https://holopin.io/api/user/board?user=cool_hecker)](https://holopin.io/@cool_hecker)
 
 <br/>  
 
