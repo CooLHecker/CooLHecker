@@ -21,7 +21,7 @@ jobs:
       - name: generate trophy.svg
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
-          username: ${{ github.repository_owner }}
+          username: CooLHecker
           file: dist/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           theme: dracula
