@@ -1,4 +1,18 @@
-<h1 align="center">Sachin, here!👋</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Sachin+Kumawat+%F0%9F%91%8B;Dev+%7C+AI+Enthusiast;First-Year+IT+%40+VESIT+Mumbai;Open+to+Collaborationss+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Internships-✅-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VESIT%20Mumbai-Sem%202%20IT-blue?style=for-the-badge" />
+</div>
+
+## 👨‍💻 About Me
+ - 🎓 First-year INFT Engineering student @ Vivekanand Education Society Institute Of Technology (VES), Mumbai
+ - 🤖 Passionate about combining AI/ML with real-world web applications
+ - 🛠️ Recently worked on FairLens- an HR bias auditing tool
+ - 🌱 Currently deepening my skills in React and cloud deployment
+ - 💬 Ask me about Python, Streamlit, or building AI-powered apps
 
 ###
 
