@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Open%20to%20Internships-✅-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/VESIT%20Mumbai-Sem%202%20IT-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VESIT%20Mumbai-Sem%203%20IT-blue?style=for-the-badge" />
 </div>
 
 ## 👨‍💻 About Me
