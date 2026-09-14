@@ -10,7 +10,7 @@
 ## 👨‍💻 About Me
  - 🎓 Second-year INFT Engineering student @ Vivekanand Education Society Institute Of Technology (VES), Mumbai
  - 🤖 Passionate about combining AI/ML with real-world web applications
- - 🛠️ Recently worked on FairLens- an HR bias auditing tool
+ - 🛠️ Recently worked on Interloop- an HR assistance tool
  - 🌱 Currently deepening my skills in React and cloud deployment
  - 💬 Ask me about Python, Streamlit, or building AI-powered apps
 
